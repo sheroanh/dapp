@@ -28,7 +28,7 @@ The goal is to provide a minimal, working example that beginners can study, depl
 - **Network**: Stellar Testnet
 - **Claim Amount**: 1 XLM (1,000,000 stroops)
 - **Limit**: 1 claim per address (tracked on-chain)
-- **Contract ID**: (to be filled after deployment)
+- **Contract ID**: [CCNRXQFUOQMZBJ3YPQ2F4T6TESSQKFSJOAPMMMGG3P3PQ4F326B2LKCN](https://lab.stellar.org/r/testnet/contract/CCNRXQFUOQMZBJ3YPQ2F4T6TESSQKFSJOAPMMMGG3P3PQ4F326B2LKCN)
 
 ## Project Structure
 
